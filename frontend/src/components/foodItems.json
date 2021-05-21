@@ -1,0 +1,58 @@
+{
+    "results": [
+    {
+    "name": "Pizza",
+    "image": "https://res.cloudinary.com/dzipbdike/image/upload/v1621222444/samples/pizza%20pics/whole-italian-pizza-on-wooden-table-with-ingredients-picture-id1048400936_mgodzt.jpg",
+    "subItemsData": {
+    "name": "Tasty Pizzas",
+    "subItems": [
+    {
+    "name": "Tomato Basil Italian Pizza",
+    "image":"https://res.cloudinary.com/dzipbdike/image/upload/v1621222333/samples/pizza%20pics/pizza-picture-id184946701_pqg2pc.jpg",
+    "price": "450",
+    "description": "Dressed with oil, the origanum and garlic cloves mushroom, onion, cottagecheese, coriander, tomato sauce"
+    },
+    {
+    "name": "Bombay Pizza",
+    "image": "https://res.cloudinary.com/dzipbdike/image/upload/v1621223148/samples/pizza%20pics/pizza-on-a-wooden-background-with-ham-olives-tomatoes-and-green-basil-picture-id1170689492_u4dodf.jpg",
+    "price": "550",
+    "description": "Spicy tomato sauce with Italian herbs, mushrooms,onion, cottage cheese, coriander and mozzarella"
+    },
+    {
+    "name": "Sicilia Pizza",
+    "image": "https://res.cloudinary.com/dzipbdike/image/upload/v1621222123/samples/pizza%20pics/supreme-pizza-slice-lift-picture-id153784617_m9ey5v.jpg",
+    "price": "450",
+    "description": "A thick base pizza with fresh tomato sauce,mushrooms, garlic, pickled onions"
+    }
+    ]
+    }
+    },
+    {
+    "name": "Burger",
+    "image": "https://res.cloudinary.com/dzipbdike/image/upload/v1621222717/samples/pizza%20pics/hamburger-with-cheese-and-french-fries-picture-id1188412964_qlhjzq.jpg",
+    "subItemsData": {
+    "name": "Crispy Burgers",
+    "subItems": [
+    {
+    "name": "Fried Chicken Burger",
+    "image": "https://res.cloudinary.com/dzipbdike/image/upload/v1621233541/samples/pizza%20pics/fresh-burger-isolated-picture-id1125149183_qzntuc.jpg",
+    "price": "450",
+    "description": "Old School Chicken Burger, Onion, Tomato, Cheese, Chiken"
+    },
+    {
+    "name": "Paneer Tikka Burger",
+    "image": "https://res.cloudinary.com/dzipbdike/image/upload/v1621233694/samples/pizza%20pics/cheeseburger-and-fries-picture-id950855878_eh3wsa.jpg",
+    "price": "450",
+    "description": "Spicy Paneer, Onion, Tomato, Mozerella Cheese, sweet pickel, Onion"
+    },
+    {
+    "name": "Chicken Classic Cheese Burger",
+    "image": "https://res.cloudinary.com/dzipbdike/image/upload/v1621233591/samples/pizza%20pics/healthy-veggie-burger-picture-id1183008025_ssitdd.jpg",
+    "price": "550",
+    "description": "Aged cheddar, sweet pickle, tomato, red onion, Chiken Tikki, Paneer"
+    }
+    ]
+    }
+    }
+    ]
+}
